@@ -2,8 +2,8 @@
 <div> 
   <img width="500" align="center" src="https://readme-typing-svg.herokuapp.com?font=inter&weight=500&duration=4000&pause=700&color=027BFE&random=false&width=435&lines=Hi+I'm+Joel;Let's+connect"/>
 </div>
-<a href="https://x.com/innovative_joe" target="_blank" rel="nofollow"><img src="https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/X%20(formerly%20Twitter).svg" alt="X (formerly twitter) profile" width="40" height="40" style="max-width: 100%;"></a> 
-<a href="https://www.linkedin.com/in/joel-george-web-product-designer-researcher/" target="_blank" rel="nofollow"><img src="https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/Linkedin.svg" alt="linkedin profile" width="40" height="40" style="max-width: 100%;"></a> 
+<a href="https://x.com/innovative_joe" target="_blank" rel="nofollow"><img src="https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/X%20(formerly%20Twitter).svg" alt="X (formerly twitter) profile" width="40" height="40" style="max-width: 100%;"></a> 
+<a href="https://www.linkedin.com/in/joel-george-web-product-designer-researcher/" target="_blank" rel="nofollow"><img src="https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/Linkedin.svg" alt="linkedin profile" width="40" height="40" style="max-width: 100%;"></a> 
 <a href="https://innovativejoe.com" target="_blank" rel="nofollow"><img src="https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/Website.svg" alt="my website" width="40" height="40" style="max-width: 100%;"></a> 
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=innovativejoe&label=Profile%20views&color=0e75b6&style=flat" alt="innovativejoe" /> </p>-->
@@ -25,31 +25,31 @@
 > - Marketing website built in Astro
 
 ## Languages and Tools:
-![HTML](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/HTML.svg "HTML5")
-![CSS3](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/CSS.svg "CSS3")
-![JavaScript](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/JavaScript.svg "JavaScript")
-![AWS](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/AWS.svg "AWS")
-![Tailwind](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/Tailwind.svg "Tailwind")
-![TypeScript](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/Typescript.svg "TypeScript")
-![Astro](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/Astro%20icon.svg "Astro")
-![React](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/React.svg "React")
-![MongoDb](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/MongoDb.svg "MongoDb")
-![PostgresSQL](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/PostgreSQL.svg "PostgreSQL")
-![NextJS](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/NextJs.svg "NextJS")
+![HTML](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/HTML.svg "HTML5")
+![CSS3](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/CSS.svg "CSS3")
+![JavaScript](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/JavaScript.svg "JavaScript")
+![AWS](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/AWS.svg "AWS")
+![Tailwind](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/Tailwind.svg "Tailwind")
+![TypeScript](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/Typescript.svg "TypeScript")
+![Astro](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/Astro%20icon.svg "Astro")
+![React](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/React.svg "React")
+![MongoDb](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/MongoDb.svg "MongoDb")
+![PostgresSQL](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/PostgreSQL.svg "PostgreSQL")
+![NextJS](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/NextJs.svg "NextJS")
 ![Nginx](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/Nginx.svg "Nginx")
-![Docker](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/Docker.svg "Docker")
-![ExpressJS](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/ExpressJs.svg "ExpressJS")
-![NodeJS](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/NodeJs.svg "NodeJS")
-![Redux](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/Redux.svg "Redux")
-![Vercel](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/Vercel.svg "Vercel")
-![Cloudflare](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/Cloudflare.svg "Cloudfare")
+![Docker](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/Docker.svg "Docker")
+![ExpressJS](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/ExpressJs.svg "ExpressJS")
+![NodeJS](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/NodeJs.svg "NodeJS")
+![Redux](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/Redux.svg "Redux")
+![Vercel](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/Vercel.svg "Vercel")
+![Cloudflare](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/Cloudflare.svg "Cloudfare")
 ![Netlify](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/Netlify.svg "Netlify")
-![Prisma](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/Prisma.svg "Prisma ORM")
-![Heroku](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/Heroku.svg "Heroku")
-![Bubble](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/Bubble.svg "Bubble no code solution")
-![Shopify](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/Shopify.svg "Shopify")
+![Prisma](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/Prisma.svg "Prisma ORM")
+![Heroku](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/Heroku.svg "Heroku")
+![Bubble](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/Bubble.svg "Bubble no code solution")
+![Shopify](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/Shopify.svg "Shopify")
 ![Figma](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/Figma.svg "Figma")
-![Python](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/Python.svg "Python")
+![Python](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/Python.svg "Python")
 
 <!--
 [![Name](img_url "Tooltip")
