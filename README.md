@@ -2,8 +2,8 @@
 <div> 
   <img width="500" align="center" src="https://readme-typing-svg.herokuapp.com?font=inter&weight=500&duration=4000&pause=700&color=027BFE&random=false&width=435&lines=Hi+I'm+Joel;Let's+connect"/>
 </div>
-<a href="https://twitter.com/articulate_joe" target="_blank" rel="nofollow"><img src="https://skillicons.dev/icons?i=twitter" alt="twitter profile" width="40" height="40" style="max-width: 100%;"></a> 
-<a href="https://www.linkedin.com/in/joel-george-web-product-designer-researcher/" target="_blank" rel="nofollow"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin profile" width="40" height="40" style="max-width: 100%;"></a> 
+<a href="https://x.com/innovative_joe" target="_blank" rel="nofollow"><img src="https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/X%20(formerly%20Twitter).svg" alt="X (formerly twitter) profile" width="40" height="40" style="max-width: 100%;"></a> 
+<a href="https://www.linkedin.com/in/joel-george-web-product-designer-researcher/" target="_blank" rel="nofollow"><img src="https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/Linkedin.svg" alt="linkedin profile" width="40" height="40" style="max-width: 100%;"></a> 
 <a href="https://innovativejoe.com" target="_blank" rel="nofollow"><img src="https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/Website.svg" alt="my website" width="40" height="40" style="max-width: 100%;"></a> 
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=innovativejoe&label=Profile%20views&color=0e75b6&style=flat" alt="innovativejoe" /> </p>-->
@@ -25,30 +25,32 @@
 > - Marketing website built in Astro
 
 ## Languages and Tools:
-![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg "Html5")
-![Css3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg "CSS3")
-![Javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg "javascript")
-![AWS](https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg "AWS")
-![Tailwind](https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg "tailwind")
-![Typescript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg "Typescript")
-![Astro](https://github.com/InnovativeJoe/InnovativeJoe/blob/4091ea0288ad5ca6fdb0d7fa925c4f63610e5f26/assets/icons/Astro%20icon.svg "Astro")
-![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg "React")
-![MongoDb](https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg "Mongodb")
-![PostgresSql](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg "PostgreSQL")
-![Nextjs](https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg "Nextjs")
-![Nginx](https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg "nginx")
-![Docker](https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg "docker")
-![Express](https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg "express")
-![NodeJs](https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg "NodeJs")
-![Redux](https://github.com/tandpfun/skill-icons/raw/main/icons/Redux.svg "Redux")
-![Vercel](https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg "Vercel")
-![Cloudflare](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/cloudflare%20icon.svg "Cloudfare")
-![Netlify](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/netlify.svg "Netlify")
-![Prisma](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/prisma%20icon.svg "Prisma ORM")
-![Heroku](https://github.com/tandpfun/skill-icons/blob/main/icons/Heroku.svg "Heroku")
-![Bubble]https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/bubble%20icon.svg "Bubble no code solution" width="40" height="40" style="max-width: 100%;"></a> <a href="https://www.shopify.com/" target="_blank" rel="nofollow"><img src="https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/Shopify%20icon.svg"  alt="Shopify" width="40" height="40" style="max-width: 100%;"></a>
-![Figma](https://github.com/InnovativeJoe/InnovativeJoe/blob/4091ea0288ad5ca6fdb0d7fa925c4f63610e5f26/assets/icons/Figma%20icon.svg "Figma")
-![Python](https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg "Python")
+![HTML](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/HTML.svg "HTML5")
+![CSS3](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/CSS.svg "CSS3")
+![JavaScript](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/JavaScript.svg "JavaScript")
+![AWS](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/AWS.svg "AWS")
+![Tailwind](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/Tailwind.svg "Tailwind")
+![TypeScript](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/Typescript.svg "TypeScript")
+![Astro](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/Astro%20icon.svg "Astro")
+![React](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/React.svg "React")
+![MongoDb](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/MongoDb.svg "MongoDb")
+![PostgresSQL](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/PostgreSQL.svg "PostgreSQL")
+![NextJS](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/NextJs.svg "NextJS")
+![Nginx](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/Nginx.svg "Nginx")
+![Docker](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/Docker.svg "Docker")
+![ExpressJS](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/ExpressJs.svg "ExpressJS")
+![NodeJS](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/NodeJs.svg "NodeJS")
+![Redux](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/Redux.svg "Redux")
+![Vercel](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/Vercel.svg "Vercel")
+![Cloudflare](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/Cloudflare.svg "Cloudfare")
+![Netlify](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/Netlify.svg "Netlify")
+![Prisma](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/Prisma.svg "Prisma ORM")
+![Heroku](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/Heroku.svg "Heroku")
+![Bubble](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/Bubble.svg "Bubble no code solution")
+![Shopify](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/Shopify.svg "Shopify")
+![Figma](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/Figma.svg "Figma")
+![Python](https://github.com/InnovativeJoe/InnovativeJoe/blob/assets/icons/Python.svg "Python")
+
 <!--
 [![Name](img_url "Tooltip")
 [![]("")
@@ -70,7 +72,5 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ...
-
-
 -->
 
