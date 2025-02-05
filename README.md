@@ -2,7 +2,7 @@
 <div> 
   <img width="500" align="center" src="https://readme-typing-svg.herokuapp.com?font=inter&weight=500&duration=4000&pause=700&color=027BFE&random=false&width=435&lines=Hi+I'm+Joel;Let's+connect"/>
 </div>
-<a href="https://x.com/innovative_joe" target="_blank" rel="nofollow"><img src="https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/X%20(formerly%20Twitter).svg" alt="X (formerly twitter) profile" width="40" height="40" style="max-width: 100%;"></a> 
+<a href="https://x.com/innovative_joe" target="_blank" rel="nofollow"><img src="https://github.com/InnovativeJoe/InnovativeJoe/blob/33772ddc27bf13fe05b3d61fda32b7a0d2839dff/assets/icons/X%20(formerly%20Twitter).svg" alt="X (formerly twitter) profile" width="40" height="40" style="max-width: 100%;"></a> 
 <a href="https://www.linkedin.com/in/joel-george-web-product-designer-researcher/" target="_blank" rel="nofollow"><img src="https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/Linkedin.svg" alt="linkedin profile" width="40" height="40" style="max-width: 100%;"></a> 
 <a href="https://innovativejoe.com" target="_blank" rel="nofollow"><img src="https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/Website.svg" alt="my website" width="40" height="40" style="max-width: 100%;"></a> 
 
