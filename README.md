@@ -48,10 +48,11 @@
 ![Heroku](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/Heroku.svg "Heroku")
 ![Bubble](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/Bubble.svg "Bubble no code solution")
 ![Shopify](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/Shopify.svg "Shopify")
+![Webflow](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/Webflow.svg "Webflow")
 ![Figma](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/Figma.svg "Figma")
 ![Python](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/Python.svg "Python")
 ![Golang](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/Golang%20icon.svg "Golang")
-![Webflow](InnovativeJoe/InnovativeJoe/blob/main/assets/icons/Webflow%20icon.svg "Webflow")
+
 
 <!--
 [![Name](img_url "Tooltip")
