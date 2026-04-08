@@ -13,16 +13,16 @@
 
    🔭 I’m currently working on **MERN Stack and Nextjs**
     
-   🌱 I’m currently learning **Amazon Web Services and python**
+   🌱 I’m currently exploring Ai use cases for businesses and individuals
     
    👨‍💻 All of my projects are available at **https://innovativejoe.com**
     
    💬 Ask me about UX, Node.js, React, Postgresql, MongoDB, Nextjs, Typrescipt, Shopify, Webflow, Astro Etc.
 
 ## Projects
-> - Ai PDF chatbot
-> - Ecommerce app in web3
-> - Marketing website built in Astro
+> - Ai PDF summarizer
+> - Ecommerce app in nextjs
+> - Marketing website for SMEs
 
 ## Languages and Tools:
 ![HTML](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/HTML.svg "HTML5")
@@ -50,15 +50,11 @@
 ![Shopify](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/Shopify.svg "Shopify")
 ![Figma](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/Figma.svg "Figma")
 ![Python](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/Python.svg "Python")
+![Golang](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/Golang%20icon.svg "Golang")
+![Webflow](InnovativeJoe/InnovativeJoe/blob/main/assets/icons/Webflow%20icon.svg "Webflow")
 
 <!--
 [![Name](img_url "Tooltip")
-[![]("")
-
-[![Shopify](https://github.com/InnovativeJoe/InnovativeJoe/blob/main/assets/icons/Shopify%20icon.svg "Shopify")
-
-[![Webflow](InnovativeJoe/InnovativeJoe/blob/main/assets/icons/Webflow%20icon.svg "Webflow")--> 
-  
 ## <a href="https://innovativejoe.com/contact">Contact me</a>
 
 <!--
@@ -69,8 +65,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=innovativejoe&" alt="innovativejoe" /></p>
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ...
 -->
 
